@@ -1,0 +1,25 @@
+body {
+  background-color: #bababa;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+.img-logo {
+  height: 30px;
+}
+
+.img-item {
+  background-color: #ffffff;
+  margin: 30px 0px 0px 0px;
+  border: 1px solid #b1b1b1;
+}
+
+.img-image {
+  margin: 4px;
+}
+
+.img-description {
+  margin: 6px;
+}
